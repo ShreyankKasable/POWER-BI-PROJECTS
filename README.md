@@ -25,8 +25,8 @@ Power BI is a powerful tool for turning raw data into meaningful insights throug
 
 | Project Name                                         | Description                                                                                           | Preview |
 |------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
-| **Men's T-Shirt Sales Analysis (Multi-page Report)** | Analysis of sales trends, regional performance, and top-selling products in a retail setting          | ![Preview](images/MenClothing Data Analysis.png) 
-| **Loan Detail Analysis**                             | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan Detail Analysis.png)
+| **Men's T-Shirt Sales Analysis (Multi-page Report)** | Analysis of sales trends, regional performance, and top-selling products in a retail setting          | ![Preview](images/MenClothing%20Data%20Analysis.png) 
+| **Loan Detail Analysis**                             | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan%20Detail%20Analysis.png)
 
 
 ---
