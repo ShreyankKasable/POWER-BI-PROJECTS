@@ -94,8 +94,7 @@ The data model consists of:
 
 ## 📬 Contact
 
-**Author**: **Shreyank Kasable**  
-**LinkedIn**: [Your LinkedIn]  
+**Author**: **Shreyank Kasable**
 **GitHub**: https://github.com/ShreyankKasable
 
 ---
