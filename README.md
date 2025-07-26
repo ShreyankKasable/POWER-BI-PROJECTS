@@ -23,10 +23,12 @@ Power BI is a powerful tool for turning raw data into meaningful insights throug
 
 ## 📁 Projects Included
 
-| Project Name                                         | Description                                                                                           | Preview |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
-| **Men's T-Shirt Sales Analysis (Multi-page Report)** | Analysis of sales trends, regional performance, and top-selling products in a retail setting          | ![Preview](images/MenClothing%20Data%20Analysis.png) 
-| **Loan Detail Analysis**                             | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan%20Detail%20Analysis.png)
+| Project Name                                        | Description                                                                                           | Preview |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
+| **MEN'S T-SHIRT SALES ANALYSIS** | Analysis of sales trends, regional performance, and top-selling products in a retail setting          | ![Preview](images/MenClothing%20Data%20Analysis.png) 
+| **LOAN DETAIL ANALYSIS**                            | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan%20Detail%20Analysis.png)
+| **UBER TRIP ANALYSIS**                              | This project presents a dynamic and interactive Power BI dashboard that analyzes Uber trip data to deliver meaningful business insights. |  ![Preview](images/Uber%20Trip%20Analysis.png)
+
 
 
 ---
@@ -41,7 +43,7 @@ Power BI is a powerful tool for turning raw data into meaningful insights throug
 
 ## 🙋‍♂️ About Me
 
-I'm **[Your Name]**, a Data Analyst & BI Enthusiast passionate about uncovering insights through data storytelling. My expertise lies in creating dashboards that not only look good but also drive actionable decisions.
+I'm **Shreyank Kasable**, a Data Analyst Enthusiast passionate about uncovering insights through data storytelling. My expertise lies in creating dashboards that not only look good but also drive actionable decisions.
 
 ---
 
