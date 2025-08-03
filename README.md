@@ -23,11 +23,12 @@ Power BI is a powerful tool for turning raw data into meaningful insights throug
 
 ## 📁 Projects Included
 
-| Project Name                                        | Description                                                                                           | Preview |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------|
+| Project Name                     | Description                                                                                           | Preview |
+|----------------------------------|-------------------------------------------------------------------------------------------------------|---------|
+| **WEATHER FORECAST ANALYSIS**    | This project presents a dynamic and interactive Power BI dashboard that analyzes Uber trip data to deliver meaningful business insights. |  ![Preview](images/Weather%20Forecast%20Analysis.png)
 | **MEN'S T-SHIRT SALES ANALYSIS** | Analysis of sales trends, regional performance, and top-selling products in a retail setting          | ![Preview](images/MenClothing%20Data%20Analysis.png) 
-| **LOAN DETAIL ANALYSIS**                            | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan%20Detail%20Analysis.png)
-| **UBER TRIP ANALYSIS**                              | This project presents a dynamic and interactive Power BI dashboard that analyzes Uber trip data to deliver meaningful business insights. |  ![Preview](images/Uber%20Trip%20Analysis.png)
+| **LOAN DETAIL ANALYSIS**         | An interactive dashboard analyzing loan Details    | ![Preview](images/Loan%20Detail%20Analysis.png)
+| **UBER TRIP ANALYSIS**           | This project presents a dynamic and interactive Power BI dashboard that analyzes Uber trip data to deliver meaningful business insights. |  ![Preview](images/Uber%20Trip%20Analysis.png)
 
 
 
